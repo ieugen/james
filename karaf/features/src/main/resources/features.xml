@@ -329,7 +329,7 @@
 
     <feature name="commons-configuration" version="${commons-configuration-osgi.version}">
         <bundle>
-            mvn:org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration/${commons-configuration-osgi.version}
+            mvn:org.apache.servicemix.bundles/org.apache.servicemmix.bundles.commons-configuration/${commons-configuration-osgi.version}
         </bundle>
         <feature>war</feature>
         <bundle>mvn:org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-beanutils/1.8.3_1</bundle>
